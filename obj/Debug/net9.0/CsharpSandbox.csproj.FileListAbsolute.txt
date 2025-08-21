@@ -1,0 +1,14 @@
+C:\programmation\csharp\sandbox\CsharpSandbox\bin\Debug\net9.0\CsharpSandbox.exe
+C:\programmation\csharp\sandbox\CsharpSandbox\bin\Debug\net9.0\CsharpSandbox.deps.json
+C:\programmation\csharp\sandbox\CsharpSandbox\bin\Debug\net9.0\CsharpSandbox.runtimeconfig.json
+C:\programmation\csharp\sandbox\CsharpSandbox\bin\Debug\net9.0\CsharpSandbox.dll
+C:\programmation\csharp\sandbox\CsharpSandbox\bin\Debug\net9.0\CsharpSandbox.pdb
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.GeneratedMSBuildEditorConfig.editorconfig
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.AssemblyInfoInputs.cache
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.AssemblyInfo.cs
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.csproj.CoreCompileInputs.cache
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.dll
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\refint\CsharpSandbox.dll
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.pdb
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.genruntimeconfig.cache
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\ref\CsharpSandbox.dll
