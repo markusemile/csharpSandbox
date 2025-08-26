@@ -12,3 +12,4 @@ C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\refint\CsharpSand
 C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.pdb
 C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.genruntimeconfig.cache
 C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\ref\CsharpSandbox.dll
+C:\programmation\csharp\sandbox\CsharpSandbox\obj\Debug\net9.0\CsharpSandbox.sourcelink.json
